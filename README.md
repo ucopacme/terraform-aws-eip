@@ -51,7 +51,7 @@ locals {
   source      = "https://github.com/ucopacme/ucop-terraform-deployments/terraform/chs-dev"
 }
 
-```
+#
 
 2. Create output.tf config file, copy/past the following configuration.
 
